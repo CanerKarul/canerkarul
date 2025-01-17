@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a fourth-year student at Malatya Turgut Özal University.<br> 💻 I am studying Computer Engineering.<br> 🎮 Additionally, I am continuing my internship at Velo Game Studios.<br> 🌱 Currently, I am learning Unity, Unreal Engine 5, and frontend development.<br> 👯 Feel free to contact me anytime.<br>
+🔭 I graduated from Malatya Turgut Özal University with a degree in Computer Engineering.<br> 🌱  I am learning React and working on Unity, Unreal Engine 5, and frontend development.<br> 👯 Feel free to contact me anytime.<br>
 
 
 ## 🌐 Socials:
